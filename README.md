@@ -1,2 +1,2 @@
 # College-Cost-Analysis
-Analysis to determine what variables impact the cost of private, non-profit higher education institutions.
+Analyzing college scorecard data to determine what variables impact the cost of private, non-profit higher education institutions.
